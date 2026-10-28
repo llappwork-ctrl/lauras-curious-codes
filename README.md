@@ -8,7 +8,9 @@ My background is in healthcare administration, where accuracy, documentation, pr
 
 🕵️ Featured Project — The Bug Detective Agency
 
-🎮 [Enjoy The Bug Detective Agency's source code](https://github.com/llappwork-ctrl/bug-detective-agency)
+🎮 [Play The Bug Detective Agency](https://llappwork-ctrl.github.io/bug-detective-agency/)
+
+🔎 [Explore The Bug Detective Agency's source code](https://github.com/llappwork-ctrl/bug-detective-agency)
 
 A cozy, quirky, detective-noir-inspired interactive mystery series where visitors investigate software bugs, explore design decisions, and learn how software testing works.
 
