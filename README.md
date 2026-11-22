@@ -12,17 +12,16 @@ My background is in healthcare administration, where accuracy, documentation, pr
 
 🔎 [Explore The Bug Detective Agency's source code](https://github.com/llappwork-ctrl/bug-detective-agency)
 
-A cozy, quirky, detective-noir-inspired interactive mystery series where visitors investigate software bugs, explore design decisions, and learn how software testing works.
+The Bug Detective Agency is already playable, with a cozy, quirky, detective-noir-inspired point-and-click mystery that I am building as a hands-on coding and QA learning project. Explore the interactive office and garden, discover evidence records, and uncover Mr. Pickles among the begonias. The game continues to grow through small changes and browser testing.
 
 Meet Mabel Quibble, an eccentric witness with purple hair, oversized glasses, an enormous canvas bag, and an extraordinary talent for finding clues nobody asked her to find.
 
-Planned investigations include:
+The current story connects two cases.
 
-Case #000 — The Missing Garden Gnome: A playful introductory mystery featuring Mr. Pickles and some suspicious begonias.
-Case #001 — The Curious Case of the Mixed-Up Records: Exploring record identity, permissions, and regression testing.
-The Category Conundrum: Investigating dependencies and the consequences of changing a feature.
-The Case of the Wandering Colors: Exploring shared CSS, user interfaces, and change impact.
-The first playable version is being designed and will be developed through small, hands-on learning exercises.
+- **Case #000 — The Missing Garden Gnome** is the archived investigation into Mr. Pickles’s disappearance. Its original recorded status remains SOLVED.
+- **Case #001 — The Curious Case of the Mixed-Up Records** is the active, unsolved investigation. Players collect records and compare conflicting plant-delivery information.
+
+Alongside the story, I practice investigating intentional software bugs and real development defects. Future write-ups may include The Category Conundrum and The Case of the Wandering Colors.
 
 ## 🧪 My Learning Lab
 
@@ -42,10 +41,15 @@ I use AI-assisted development tools as learning partners while gradually taking 
 
 My goal isn't just to make something work. I want to understand **how it works, why it works, how to test it, and what happens when it breaks.**
 
-My projects will document what I personally designed, coded, investigated, and tested, along with where AI tools assisted.
+My portfolio distinguishes what I personally designed, investigated, corrected, and tested from AI diagnosis, implementation, and reported checks. For example, Codex identified the Evidence Board record mismatch; I made guided corrections, committed the fix, and confirmed that the board worked.
+## 🔎 QA Case Studies
+
+[Explore my QA investigations](qa-case-studies/README.md), starting with the Evidence Board repair. Each write-up identifies my contribution, AI assistance, and the evidence supporting its findings.
 
 ## 🌱 What's Next?
 
-The Bug Detective Agency will be my first interactive project, with future QA investigations, design experiments, and coding exercises added as my skills develop.
+I am building a QA Case Studies section, starting with the Evidence Board repair. Each write-up will explain the expected and actual behavior, the investigation, the correction, and the available test evidence. Intentional challenges will be identified, and missing evidence will be stated clearly.
+
+The game will continue growing alongside these investigations, design experiments, and coding lessons.
 
 **Curiosity encouraged. Bugs investigated. Begonias under suspicion.** 🌸
