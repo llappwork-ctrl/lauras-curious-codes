@@ -65,4 +65,4 @@ I also practiced preserving saved user data while temporarily deferring unfinish
 - [Board code at the correction commit](https://github.com/llappwork-ctrl/bug-detective-agency/blob/03a9dfe/evidence-board.js)
 - Guided investigation, implementation, and acceptance recorded in the Codex conversation.
 
-[Back to QA Case Studies](README.md)
+[Full investigation log entry](investigation-log.md#qa-015) · [Back to QA Case Studies](README.md)

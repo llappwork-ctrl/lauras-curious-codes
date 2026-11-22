@@ -21,7 +21,7 @@ The current story connects two cases.
 - **Case #000 — The Missing Garden Gnome** is the archived investigation into Mr. Pickles’s disappearance. Its original recorded status remains SOLVED.
 - **Case #001 — The Curious Case of the Mixed-Up Records** is the active, unsolved investigation. Players collect records and compare conflicting plant-delivery information.
 
-Alongside the story, I practice investigating intentional software bugs and real development defects. Future write-ups may include The Category Conundrum and The Case of the Wandering Colors.
+Alongside the story, I practice investigating intentional software bugs and real development defects. The QA section now documents investigations including The Case of the Wandering Colors. Further write-ups will grow as supporting evidence is recovered.
 
 ## 🧪 My Learning Lab
 
@@ -42,13 +42,14 @@ I use AI-assisted development tools as learning partners while gradually taking 
 My goal isn't just to make something work. I want to understand **how it works, why it works, how to test it, and what happens when it breaks.**
 
 My portfolio distinguishes what I personally designed, investigated, corrected, and tested from AI diagnosis, implementation, and reported checks. For example, Codex identified the Evidence Board record mismatch; I made guided corrections, committed the fix, and confirmed that the board worked.
+
 ## 🔎 QA Case Studies
 
-[Explore my QA investigations](qa-case-studies/README.md), starting with the Evidence Board repair. Each write-up identifies my contribution, AI assistance, and the evidence supporting its findings.
+[Explore my QA case studies](qa-case-studies/README.md) and the [complete 21-entry investigation log](qa-case-studies/investigation-log.md). The collection includes intentional challenges, real development defects, and unresolved leads. Each write-up identifies my contribution, AI assistance, and available verification evidence.
 
 ## 🌱 What's Next?
 
-I am building a QA Case Studies section, starting with the Evidence Board repair. Each write-up will explain the expected and actual behavior, the investigation, the correction, and the available test evidence. Intentional challenges will be identified, and missing evidence will be stated clearly.
+My QA section now includes 11 case studies and a log of 21 recovered investigations and leads. Next I will review the write-ups, recover missing evidence, and add documented retests as I perform them. A later test will be dated as new evidence.
 
 The game will continue growing alongside these investigations, design experiments, and coding lessons.
 
